@@ -1,0 +1,18 @@
+# --- KiCad temporary and backup files ---
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*-bak
+*_autosave-*
+*.tmp
+fp-info-cache
+python_debugging_log.txt
+
+# --- 3D Model intermediate files ---
+*.step
+*.stp
+
+# --- macOS/Windows clutter ---
+.DS_Store
+Thumbs.db
