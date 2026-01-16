@@ -15,4 +15,8 @@ python_debugging_log.txt
 
 # --- macOS/Windows clutter ---
 .DS_Store
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+>>>>>>> 44109e6acb4befb26a79acff7c1c9daa3784647c
